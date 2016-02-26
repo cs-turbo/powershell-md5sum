@@ -30,7 +30,6 @@ ef488e3a2e960badf994d68f6d1aff37   .\test.jpg
 ef488e3a2e960badf994d68f6d1aff37   .\test_two.jpg
 ```
 
-Weitere Informationen zu dem Skript können üb
 To get more information about this script use the get-help function:
 ```
 get-help .\sum.ps1
